@@ -1,6 +1,6 @@
 # data-studio-projects
 
-Words Matter: Supreme Court Justices' Use of term Illegal Alien
+SUPREME COURT'S USE OF TERM "ILLEGAL ALIEN" AND HOW IT SHAPES PUBLIC OPINION
 
 
 Supreme Court Justices’ use of term illegal ‘alien’ sends a certain message to the public,  with the term influencing law,  policy, and perception. I wanted to see how often the judges use the term legal/illegal alien vs. person/individual/human being in cases pertaining to immigration.
